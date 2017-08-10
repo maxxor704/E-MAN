@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="E-MAN.com.mx" resolutions="1x" timestamp="1502407659893">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="inicio.css" crc="385812807" ref="inicio"/>
+    <file name="index.css" crc="4014680358" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio"/>
+    <file name="museutils.js" crc="163421577" ref="index:inicio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:inicio"/>
+    <file name="museconfig.js" crc="36584860" ref="index:inicio"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:inicio"/>
+    <file name="require.js" crc="244322403" ref="index:inicio"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4210644328" ref="index"/>
+    <file name="logotipo.png" crc="277751385" seo="true" ref="index"/>
+    <file name="u404-4.png" crc="4207038352" ref="index"/>
+    <file name="u408-4.png" crc="534342948" ref="index"/>
+    <file name="u411-4.png" crc="3952551840" ref="index"/>
+    <file name="u414-4.png" crc="4197016673" ref="index"/>
+    <file name="u417-4.png" crc="283141666" ref="index"/>
+    <file name="u528-4.png" crc="3868184623" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u431.png" crc="4150868044" ref="index"/>
+    <file name="u431-r.png" crc="502934339" ref="index"/>
+    <file name="u531-4.png" crc="365874964" ref="index"/>
+    <file name="pasted-svg-2x32.svg" crc="528358231" seo="true" ref="index"/>
+    <file name="pasted svg 2x32_poster_.png" crc="4203136653" ref="index"/>
+    <file name="u523.png" crc="4135344443" ref="index"/>
+    <file name="u523-r.png" crc="3133410" ref="index"/>
+    <file name="pasted image 1209x686.jpg" crc="4267000015" seo="true" ref="index"/>
+    <file name="u661-4.png" crc="3886891183" ref="index"/>
+    <file name="icono-circulo.png" crc="113818682" seo="true" ref="index"/>
+    <file name="u580-13.png" crc="289644761" ref="index"/>
+    <file name="u583-13.png" crc="22734389" ref="index"/>
+    <file name="u586-13.png" crc="468918811" ref="index"/>
+    <file name="u589-6.png" crc="531671551" ref="index"/>
+    <file name="pasted-svg-78918x91.svg" crc="475553905" seo="true" ref="index"/>
+    <file name="pasted svg 78918x91_poster_.png" crc="3953533833" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3842926067" seo="true" mt="1502407492868" redirect="true"/>
+  <file name="inicio.html" crc="3825299499" seo="true" mt="1502315553404" redirect="false"/>
+</manifest>
