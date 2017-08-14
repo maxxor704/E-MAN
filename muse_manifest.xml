@@ -1,14 +1,14 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="E-MAN.com.mx" resolutions="1x" timestamp="1502407659893">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="E-MAN.com.mx" resolutions="1x" timestamp="1502753767333">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="280965709" ref="index"/>
     <file name="inicio.css" crc="385812807" ref="inicio"/>
-    <file name="index.css" crc="4014680358" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio"/>
     <file name="museutils.js" crc="163421577" ref="index:inicio"/>
     <file name="whatinput.js" crc="86476730" ref="index:inicio"/>
-    <file name="museconfig.js" crc="36584860" ref="index:inicio"/>
+    <file name="museconfig.js" crc="168988563" ref="index:inicio"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:inicio"/>
     <file name="require.js" crc="244322403" ref="index:inicio"/>
   </folder>
@@ -32,6 +32,23 @@
     <file name="pasted image 1209x686.jpg" crc="4267000015" seo="true" ref="index"/>
     <file name="u661-4.png" crc="3886891183" ref="index"/>
     <file name="icono-circulo.png" crc="113818682" seo="true" ref="index"/>
+    <file name="c97d6f_5cbf79fec05d426a87b2452a4b96704a-mv2.jpg" crc="3862974742" seo="true" ref="index"/>
+    <file name="svg-pegado-1400041x694.svg" crc="170287310" seo="true" ref="index"/>
+    <file name="svg pegado 1400041x694_poster_.png" crc="3782001760" ref="index"/>
+    <file name="u775-4.png" crc="4068031062" ref="index"/>
+    <file name="a069ba_7cf72230ae7d4ab7b154455847140435-mv2.png" crc="490663651" seo="true" ref="index"/>
+    <file name="a069ba_572b003b6a9a43e1873d96470d8249a2-mv2.jpg" crc="4088992613" seo="true" ref="index"/>
+    <file name="logo_lapisa-institucional.png" crc="4072442313" seo="true" ref="index"/>
+    <file name="slide_1.png" crc="3911017444" seo="true" ref="index"/>
+    <file name="u810-4.png" crc="487510546" ref="index"/>
+    <file name="3.png" crc="4267670803" ref="index"/>
+    <file name="4.png" crc="408576974" ref="index"/>
+    <file name="1.png" crc="4193114694" ref="index"/>
+    <file name="2.png" crc="170511925" ref="index"/>
+    <file name="u875-7.png" crc="4162046772" ref="index"/>
+    <file name="u882-7.png" crc="4278880261" ref="index"/>
+    <file name="u885-7.png" crc="4042071451" ref="index"/>
+    <file name="u888-7.png" crc="526605485" ref="index"/>
     <file name="u580-13.png" crc="289644761" ref="index"/>
     <file name="u583-13.png" crc="22734389" ref="index"/>
     <file name="u586-13.png" crc="468918811" ref="index"/>
@@ -39,6 +56,6 @@
     <file name="pasted-svg-78918x91.svg" crc="475553905" seo="true" ref="index"/>
     <file name="pasted svg 78918x91_poster_.png" crc="3953533833" ref="index"/>
   </folder>
-  <file name="index.html" crc="3842926067" seo="true" mt="1502407492868" redirect="true"/>
-  <file name="inicio.html" crc="3825299499" seo="true" mt="1502315553404" redirect="false"/>
+  <file name="index.html" crc="4001155223" seo="true" mt="1502753560057" redirect="true"/>
+  <file name="inicio.html" crc="3809449288" seo="true" mt="1502315553404" redirect="false"/>
 </manifest>
