@@ -10,15 +10,22 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=4210644328"/>
   <title>Inicio</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=280965709" id="pagesheet"/>
-   </head>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3880695177" id="pagesheet"/>
+  <!-- JS includes -->
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
+    <!--custom head HTML-->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css">
+ </head>
  <body>
 
   <!--HTML Widget code-->
@@ -41,11 +48,33 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clip_frame grpelem" id="u391"><!-- image -->
       <img class="block" id="u391_img" src="images/logotipo.png?crc=277751385" alt="" width="293" height="93"/>
      </div>
-     <img class="grpelem" id="u404-4" alt="INICIO" width="78" height="29" src="images/u404-4.png?crc=4207038352"/><!-- rasterized frame -->
-     <img class="grpelem" id="u408-4" alt="¿QUIENES SOMOS" width="177" height="29" src="images/u408-4.png?crc=534342948"/><!-- rasterized frame -->
-     <img class="grpelem" id="u411-4" alt="FRUTA" width="78" height="29" src="images/u411-4.png?crc=3952551840"/><!-- rasterized frame -->
-     <img class="grpelem" id="u414-4" alt="USUARIOS" width="78" height="29" src="images/u414-4.png?crc=4197016673"/><!-- rasterized frame -->
-     <img class="grpelem" id="u417-4" alt="¿COMO FUNCIONA?" width="176" height="29" src="images/u417-4.png?crc=283141666"/><!-- rasterized frame -->
+     <nav class="MenuBar clearfix grpelem" id="menuu891"><!-- horizontal box -->
+      <div class="MenuItemContainer clearfix grpelem" id="u899"><!-- vertical box -->
+       <div class="MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u900"><!-- horizontal box -->
+        <img class="MenuItemLabel NoWrap grpelem" id="u901" alt="INICIO" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
+       </div>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u936"><!-- vertical box -->
+       <div class="MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u937"><!-- horizontal box -->
+        <img class="MenuItemLabel NoWrap grpelem" id="u939" alt="¿QUIENES SOMOS?" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
+       </div>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u965"><!-- vertical box -->
+       <div class="MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u968"><!-- horizontal box -->
+        <img class="MenuItemLabel NoWrap grpelem" id="u971" alt="FRUTA" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
+       </div>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u993"><!-- vertical box -->
+       <div class="MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u994"><!-- horizontal box -->
+        <img class="MenuItemLabel NoWrap grpelem" id="u996" alt="USUARIOS" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
+       </div>
+      </div>
+      <div class="MenuItemContainer clearfix grpelem" id="u1021"><!-- vertical box -->
+       <div class="MenuItem MenuItemWithSubMenu transition clearfix colelem" id="u1024"><!-- horizontal box -->
+        <img class="MenuItemLabel NoWrap grpelem" id="u1027" alt="¡¿COMO FUNCIONA?" src="images/blank.gif?crc=4208392903"/><!-- state-based BG images -->
+       </div>
+      </div>
+     </nav>
      <div class="clearfix grpelem" id="ppu495"><!-- column -->
       <div class="clearfix colelem" id="pu495"><!-- group -->
        <div class="grpelem" id="u495"><!-- simple frame --></div>
@@ -67,17 +96,43 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="clearfix colelem" id="pu652"><!-- group -->
-     <div class="clip_frame grpelem" id="u652"><!-- image -->
-      <img class="block" id="u652_img" src="images/pasted%20image%201209x686.jpg?crc=4267000015" alt="" width="1161" height="659"/>
+    <div class="SlideShowWidget clearfix colelem" id="slideshowu1327"><!-- none box -->
+     <div class="popup_anchor" id="u1339popup">
+      <div class="SlideShowContentPanel clearfix" id="u1339"><!-- stack box -->
+       <div class="SSSlide clip_frame clearfix grpelem" id="u1719"><!-- image -->
+        <img class="ImageInclude position_content" id="u1719_img" data-src="images/1cc1f33eafe2fc42b78b152ad67d4d01.jpg?crc=3881344275" src="images/blank.gif?crc=4208392903" alt="" data-width="1160" data-height="725"/>
+       </div>
+       <div class="SSSlide invi clip_frame clearfix grpelem" id="u1691"><!-- image -->
+        <img class="ImageInclude position_content" id="u1691_img" data-src="images/la-unic3b3-reclama-que-se-garantice-el-derecho-a-los-agricultores-a-vender-e-intercambiar-sus-semillas.jpg?crc=417457765" src="images/blank.gif?crc=4208392903" alt="" data-width="1160" data-height="725"/>
+       </div>
+       <div class="SSSlide invi clip_frame clearfix grpelem" id="u1663"><!-- image -->
+        <img class="ImageInclude position_content" id="u1663_img" data-src="images/68793653-agriculture-wallpapers.jpg?crc=258671794" src="images/blank.gif?crc=4208392903" alt="" data-width="1160" data-height="725"/>
+       </div>
+       <div class="SSSlide invi clip_frame clearfix grpelem" id="u1608"><!-- image -->
+        <img class="ImageInclude position_content" id="u1608_img" data-src="images/fondo.jpg?crc=4143533051" src="images/blank.gif?crc=4208392903" alt="" data-width="1177" data-height="662"/>
+       </div>
+      </div>
      </div>
-     <img class="grpelem" id="u661-4" alt="Únete al mercado agrícola más grande México" width="946" height="103" src="images/u661-4.png?crc=3886891183"/><!-- rasterized frame -->
-     <div class="clearfix grpelem" id="u665-4"><!-- content -->
-      <p>compra - venta - envío</p>
+     <div class="popup_anchor" id="u1335popup">
+      <div class="SlideShowCaptionPanel clearfix" id="u1335"><!-- stack box -->
+       <img class="SSSlideCaption grpelem" id="u1731-7" alt="Únete al mercado agrícola más grande México compra - venta - envío " width="860" height="216" src="images/u1731-7.png?crc=3988459674"/><!-- rasterized frame -->
+       <img class="SSSlideCaption invi grpelem" id="u1703-7" alt="Únete al mercado agrícola más grande México compra - venta - envío " width="860" height="216" src="images/u1703-7.png?crc=3988459674"/><!-- rasterized frame -->
+       <img class="SSSlideCaption invi grpelem" id="u1675-8" alt="Únete al mercado agrícola más grande México compra - venta - envío " width="860" height="216" src="images/u1675-8.png?crc=4268350088"/><!-- rasterized frame -->
+       <img class="SSSlideCaption invi grpelem" id="u1620-7" alt="Únete al mercado agrícola más grande México compra - venta - envío " width="860" height="216" src="images/u1620-7.png?crc=3988459674"/><!-- rasterized frame -->
+      </div>
      </div>
-     <div class="clip_frame grpelem" id="u668"><!-- image -->
-      <img class="block" id="u668_img" src="images/icono-circulo.png?crc=113818682" alt="" width="66" height="71"/>
+     <div class="popup_anchor" id="u1334-3popup">
+      <div class="SSPreviousButton clearfix" id="u1334-3"><!-- content -->
+       <p>&nbsp;</p>
+      </div>
      </div>
+     <div class="popup_anchor" id="u1329-3popup">
+      <div class="SSNextButton clearfix" id="u1329-3"><!-- content -->
+       <p>&nbsp;</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu689"><!-- group -->
      <div class="grpelem" id="u689"><!-- simple frame --></div>
      <div class="Button clearfix grpelem" id="buttonu680"><!-- container box -->
       <div class="clearfix grpelem" id="u681-4"><!-- content -->
@@ -104,33 +159,85 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </div>
      </div>
     </div>
-    <div class="clip_frame colelem" id="u721"><!-- svg -->
-     <img class="svg" id="u719" src="images/svg-pegado-1400041x694.svg?crc=170287310" width="1400" height="694" alt="" data-mu-svgfallback="images/svg%20pegado%201400041x694_poster_.png?crc=3782001760"/>
-    </div>
-    <img class="colelem" id="u775-4" alt="Empresas que confían en E-man" width="494" height="39" src="images/u775-4.png?crc=4068031062"/><!-- rasterized frame -->
-    <div class="clearfix colelem" id="ppu778"><!-- group -->
-     <div class="clearfix grpelem" id="pu778"><!-- column -->
-      <div class="clip_frame colelem" id="u778"><!-- image -->
-       <img class="block" id="u778_img" src="images/a069ba_7cf72230ae7d4ab7b154455847140435-mv2.png?crc=490663651" alt="" width="324" height="110"/>
+    <div class="clearfix colelem" id="pu1826"><!-- group -->
+     <div class="grpelem" id="u1826"><!-- custom html -->
+      <script>
+$('.nombre-estilo-gráfico').addClass('wow nombre-efecto');
+</script>
+ 
+<script>
+wow = new WOW(
+{
+boxClass:     'wow',      // default
+animateClass: 'animated', // default
+offset:       0,          // default
+mobile:       true,       // default
+live:         true        // default
+}
+    )
+    wow.init();
+</script>
+
+     </div>
+     <div class="grpelem" id="u1830"><!-- custom html -->
+      <script>
+$('.nombre-estilo-gráfico').addClass('wow nombre-efecto');
+</script>
+ 
+<script>
+wow = new WOW(
+{
+boxClass:     'wow',      // default
+animateClass: 'animated', // default
+offset:       0,          // default
+mobile:       true,       // default
+live:         true        // default
+}
+    )
+    wow.init();
+</script>
+
+     </div>
+     <div class="browser_width grpelem" id="u1818-bw">
+      <div id="u1818"><!-- group -->
+       <div class="clearfix" id="u1818_align_to_page">
+        <div class="clip_frame grpelem" id="u1748"><!-- image -->
+         <img class="block" id="u1748_img" src="images/choice%201.png?crc=64147451" alt="" width="400" height="333"/>
+        </div>
+        <div class="clip_frame grpelem" id="u1760"><!-- image -->
+         <img class="block" id="u1760_img" src="images/choice%202.png?crc=3975684174" alt="" width="400" height="333"/>
+        </div>
+        <div class="clip_frame grpelem" id="u1770"><!-- image -->
+         <img class="block" id="u1770_img" src="images/choice%203.png?crc=3788316897" alt="" width="400" height="333"/>
+        </div>
+        <div class="clip_frame grpelem" id="u1780"><!-- image -->
+         <img class="block" id="u1780_img" src="images/choice%204.png?crc=495801437" alt="" width="400" height="333"/>
+        </div>
+        <div class="titulos clip_frame grpelem" id="u1790"><!-- image -->
+         <img class="block" id="u1790_img" src="images/choice%205.png?crc=4115295864" alt="" width="1068" height="333"/>
+        </div>
+       </div>
       </div>
-      <div class="clip_frame colelem" id="u765"><!-- image -->
-       <img class="block" id="u765_img" src="images/a069ba_572b003b6a9a43e1873d96470d8249a2-mv2.jpg?crc=4088992613" alt="" width="324" height="85"/>
-      </div>
-     </div>
-     <div class="clip_frame grpelem" id="u790"><!-- image -->
-      <img class="block" id="u790_img" src="images/logo_lapisa-institucional.png?crc=4072442313" alt="" width="233" height="186"/>
-     </div>
-     <div class="clip_frame grpelem" id="u800"><!-- image -->
-      <img class="block" id="u800_img" src="images/slide_1.png?crc=3911017444" alt="" width="308" height="231"/>
      </div>
     </div>
-    <img class="colelem" id="u810-4" alt="Conoce al Equipo " width="235" height="58" src="images/u810-4.png?crc=487510546"/><!-- rasterized frame -->
-    <div class="clearfix colelem" id="pu814"><!-- group -->
-     <div class="rounded-corners grpelem" id="u814"><!-- simple frame --></div>
-     <div class="rounded-corners grpelem" id="u851"><!-- simple frame --></div>
-     <div class="rounded-corners grpelem" id="u845"><!-- simple frame --></div>
-     <div class="rounded-corners grpelem" id="u848"><!-- simple frame --></div>
+    <img class="colelem" id="u775-4" alt="Empresas que confían en E-man" width="494" height="56" src="images/u775-4.png?crc=391421977"/><!-- rasterized frame -->
+    <div class="clip_frame mse_pre_init" id="u790"><!-- image -->
+     <img class="block" id="u790_img" src="images/logo_lapisa-institucional.png?crc=4072442313" alt="" width="233" height="186"/>
     </div>
+    <div class="clip_frame mse_pre_init" id="u778"><!-- image -->
+     <img class="block" id="u778_img" src="images/a069ba_7cf72230ae7d4ab7b154455847140435-mv2.png?crc=490663651" alt="" width="324" height="110"/>
+    </div>
+    <div class="clip_frame mse_pre_init" id="u800"><!-- image -->
+     <img class="block" id="u800_img" src="images/slide_1.png?crc=3911017444" alt="" width="308" height="231"/>
+    </div>
+    <div class="clip_frame mse_pre_init" id="u765"><!-- image -->
+     <img class="block" id="u765_img" src="images/a069ba_572b003b6a9a43e1873d96470d8249a2-mv2.jpg?crc=4088992613" alt="" width="324" height="85"/>
+    </div>
+    <img class="colelem" id="u810-4" alt="Conoce al Equipo " width="258" height="60" src="images/u810-4.png?crc=105003756"/><!-- rasterized frame -->
+    <div class="rounded-corners mse_pre_init" id="u814"><!-- simple frame --></div>
+    <div class="rounded-corners mse_pre_init" id="u851"><!-- simple frame --></div>
+    <div class="rounded-corners mse_pre_init" id="u845"><!-- simple frame --></div>
+    <div class="rounded-corners mse_pre_init" id="u848"><!-- simple frame --></div>
     <div class="clearfix colelem" id="pu875-7"><!-- group -->
      <img class="grpelem" id="u875-7" alt="José E. Barajas Director General y Fundador E-man" width="177" height="132" src="images/u875-7.png?crc=4162046772"/><!-- rasterized frame -->
      <img class="grpelem" id="u882-7" alt="Montserrat Hernández I+D y Co-fundadora" width="177" height="132" src="images/u882-7.png?crc=4278880261"/><!-- rasterized frame -->
@@ -138,6 +245,25 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <img class="grpelem" id="u888-7" alt="Miguel Angel Reyes Desarrollador y Co-fundador" width="177" height="132" src="images/u888-7.png?crc=526605485"/><!-- rasterized frame -->
     </div>
     <div class="verticalspacer" data-offset-top="2823" data-content-above-spacer="2964" data-content-below-spacer="62"></div>
+    <div class="colelem" id="u1837"><!-- custom html -->
+     <script>
+$('.titulos').addClass('wow slidelnUp');
+</script>
+ 
+<script>
+wow = new WOW(
+{
+boxClass:     'wow',      // default
+animateClass: 'animated', // default
+offset:       0,          // default
+mobile:       true,       // default
+live:         true        // default
+}
+    )
+    wow.init();
+</script>
+
+    </div>
     <div class="browser_width colelem" id="u537-bw">
      <div id="u537"><!-- group -->
       <div class="clearfix" id="u537_align_to_page">
@@ -171,6 +297,17 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    </div>
   </div>
   <div class="preload_images">
+   <img class="preload" src="images/u901-r.png?crc=452833797" alt=""/>
+   <img class="preload" src="images/u901-a.png?crc=452833797" alt=""/>
+   <img class="preload" src="images/u939-r.png?crc=104731668" alt=""/>
+   <img class="preload" src="images/u939-a.png?crc=104731668" alt=""/>
+   <img class="preload" src="images/u971-r.png?crc=4151174438" alt=""/>
+   <img class="preload" src="images/u971-a.png?crc=4151174438" alt=""/>
+   <img class="preload" src="images/u996-r.png?crc=68169277" alt=""/>
+   <img class="preload" src="images/u996-a.png?crc=68169277" alt=""/>
+   <img class="preload" src="images/u1027-r.png?crc=4285912172" alt=""/>
+   <img class="preload" src="images/u1027-m.png?crc=4285912172" alt=""/>
+   <img class="preload" src="images/u1027-a.png?crc=370835617" alt=""/>
    <img class="preload" src="images/u431-r.png?crc=502934339" alt=""/>
    <img class="preload" src="images/u523-r.png?crc=3133410" alt=""/>
   </div>
@@ -187,13 +324,24 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Puede que determinados archivos falten en el servidor o sean incorrectos. Limpie la cache del navegador e inténtelo de nuevo. Si el problema persiste, póngase en contacto con el administrador del sitio web.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch","jquery.scrolleffects"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#slideshowu1327', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'horizontal',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu1327 */
+$('#u1818').registerBackgroundPositionScrollEffect([{"speed":[0,0.8],"in":[-Infinity,1175]},{"speed":[0,0.8],"in":[1175,Infinity]}]);/* scroll effect */
+$('#u790').registerPositionScrollEffect([{"speed":[0.3,1],"in":[-Infinity,1874.95]},{"speed":[0,1],"in":[1874.95,Infinity]}]);/* scroll effect */
+$('#u778').registerPositionScrollEffect([{"speed":[-0.3,1],"in":[-Infinity,1913.2]},{"speed":[0,1],"in":[1913.2,Infinity]}]);/* scroll effect */
+$('#u800').registerPositionScrollEffect([{"speed":[0.3,1],"in":[-Infinity,2044]},{"speed":[0,1],"in":[2044,Infinity]}]);/* scroll effect */
+$('#u765').registerPositionScrollEffect([{"speed":[-0.3,1],"in":[-Infinity,2117]},{"speed":[0,1],"in":[2117,Infinity]}]);/* scroll effect */
+$('#u814').registerPositionScrollEffect([{"speed":[-0.3,1],"in":[-Infinity,2507.2]},{"speed":[0,1],"in":[2507.2,Infinity]}]);/* scroll effect */
+$('#u851').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,2507.2]},{"speed":[0,1],"in":[2507.2,Infinity]}]);/* scroll effect */
+$('#u845').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,2507.2]},{"speed":[0,1],"in":[2507.2,Infinity]}]);/* scroll effect */
+$('#u848').registerPositionScrollEffect([{"speed":[0.3,1],"in":[-Infinity,2507.2]},{"speed":[0,1],"in":[2507.2,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
