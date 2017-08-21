@@ -1,36 +1,33 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="E-MAN.com.mx" resolutions="1x" timestamp="1502836559655">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="E-MAN.com.mx" resolutions="1x" timestamp="1503352781505">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3880695177" ref="index"/>
-    <file name="inicio.css" crc="385812807" ref="inicio"/>
+    <file name="index.css" crc="195858665" ref="index"/>
+    <file name="master_a-master.css" crc="388703506" ref="¿quienes-somos:index:usuarios:¿como-funciona"/>
+    <file name="_quienes-somos.css" crc="33132410" ref="¿quienes-somos"/>
+    <file name="usuarios.css" crc="3819551632" ref="usuarios"/>
+    <file name="_como-funciona.css" crc="522210131" ref="¿como-funciona"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:inicio"/>
-    <file name="museutils.js" crc="163421577" ref="index:inicio"/>
-    <file name="whatinput.js" crc="86476730" ref="index:inicio"/>
-    <file name="museconfig.js" crc="168988563" ref="index:inicio"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:inicio"/>
-    <file name="require.js" crc="244322403" ref="index:inicio"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="museutils.js" crc="163421577" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="whatinput.js" crc="86476730" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="museconfig.js" crc="168988563" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="require.js" crc="244322403" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
     <file name="touchswipe.js" crc="404375771" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="4210644328" ref="index"/>
-    <file name="logotipo.png" crc="277751385" seo="true" ref="index"/>
-    <file name="u528-4.png" crc="3868184623" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u431.png" crc="4150868044" ref="index"/>
-    <file name="u431-r.png" crc="502934339" ref="index"/>
-    <file name="u531-4.png" crc="365874964" ref="index"/>
-    <file name="pasted-svg-2x32.svg" crc="528358231" seo="true" ref="index"/>
+    <file name="logotipo.png" crc="277751385" seo="true" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="blank.gif" crc="4208392903" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="pasted-svg-2x32.svg" crc="528358231" seo="true" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
     <file name="pasted svg 2x32_poster_.png" crc="4203136653" ref="index"/>
-    <file name="u523.png" crc="4135344443" ref="index"/>
-    <file name="u523-r.png" crc="3133410" ref="index"/>
     <file name="c97d6f_5cbf79fec05d426a87b2452a4b96704a-mv2.jpg" crc="3862974742" seo="true" ref="index"/>
     <file name="u775-4.png" crc="391421977" ref="index"/>
     <file name="a069ba_7cf72230ae7d4ab7b154455847140435-mv2.png" crc="490663651" seo="true" ref="index"/>
@@ -46,28 +43,8 @@
     <file name="u882-7.png" crc="4278880261" ref="index"/>
     <file name="u885-7.png" crc="4042071451" ref="index"/>
     <file name="u888-7.png" crc="526605485" ref="index"/>
-    <file name="u580-13.png" crc="289644761" ref="index"/>
-    <file name="u583-13.png" crc="22734389" ref="index"/>
-    <file name="u586-13.png" crc="468918811" ref="index"/>
-    <file name="u589-6.png" crc="531671551" ref="index"/>
-    <file name="pasted-svg-78918x91.svg" crc="475553905" seo="true" ref="index"/>
+    <file name="pasted-svg-78918x91.svg" crc="475553905" seo="true" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
     <file name="pasted svg 78918x91_poster_.png" crc="3953533833" ref="index"/>
-    <file name="u901.png" crc="4213783787" ref="index"/>
-    <file name="u901-r.png" crc="452833797" ref="index"/>
-    <file name="u901-a.png" crc="452833797" ref="index"/>
-    <file name="u939.png" crc="4035335252" ref="index"/>
-    <file name="u939-r.png" crc="104731668" ref="index"/>
-    <file name="u939-a.png" crc="104731668" ref="index"/>
-    <file name="u971.png" crc="470872495" ref="index"/>
-    <file name="u971-r.png" crc="4151174438" ref="index"/>
-    <file name="u971-a.png" crc="4151174438" ref="index"/>
-    <file name="u996.png" crc="3858247658" ref="index"/>
-    <file name="u996-r.png" crc="68169277" ref="index"/>
-    <file name="u996-a.png" crc="68169277" ref="index"/>
-    <file name="u1027.png" crc="258384206" ref="index"/>
-    <file name="u1027-r.png" crc="4285912172" ref="index"/>
-    <file name="u1027-m.png" crc="4285912172" ref="index"/>
-    <file name="u1027-a.png" crc="370835617" ref="index"/>
     <file name="1cc1f33eafe2fc42b78b152ad67d4d01.jpg" crc="3881344275" seo="true" ref="index"/>
     <file name="la-unic3b3-reclama-que-se-garantice-el-derecho-a-los-agricultores-a-vender-e-intercambiar-sus-semillas.jpg" crc="417457765" seo="true" ref="index"/>
     <file name="68793653-agriculture-wallpapers.jpg" crc="258671794" seo="true" ref="index"/>
@@ -85,7 +62,40 @@
     <file name="choice 3.png" crc="3788316897" seo="true" ref="index"/>
     <file name="choice 4.png" crc="495801437" seo="true" ref="index"/>
     <file name="choice 5.png" crc="4115295864" seo="true" ref="index"/>
+    <file name="u2078.png" crc="4213783787" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2078-r.png" crc="452833797" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2078-a.png" crc="452833797" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2084.png" crc="4035335252" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2084-r.png" crc="104731668" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2084-a.png" crc="104731668" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2072.png" crc="470872495" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2072-r.png" crc="4151174438" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2072-a.png" crc="4151174438" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2062.png" crc="3858247658" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2062-r.png" crc="68169277" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2062-a.png" crc="68169277" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2056.png" crc="258384206" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2056-r.png" crc="4285912172" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2056-m.png" crc="4285912172" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2056-a.png" crc="370835617" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2050-4.png" crc="3868184623" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2044.png" crc="4150868044" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2044-r.png" crc="502934339" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2051-4.png" crc="365874964" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2049.png" crc="4135344443" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2049-r.png" crc="3133410" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2187-13.png" crc="289644761" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2188-13.png" crc="22734389" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2189-13.png" crc="468918811" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="u2190-6.png" crc="531671551" ref="index:usuarios:¿quienes-somos:¿como-funciona"/>
+    <file name="svg-pegado-2119992x1129.svg" crc="205211282" seo="true" ref="usuarios"/>
+    <file name="svg pegado 2119992x1129_poster_.png" crc="66808211" ref="usuarios"/>
+    <file name="quienes somos.png" crc="3918698886" seo="true" ref="¿quienes-somos"/>
+    <file name="svg-pegado-1214319x637.svg" crc="4083058184" seo="true" ref="¿como-funciona"/>
+    <file name="svg pegado 1214319x637_poster_.png" crc="3929051771" ref="¿como-funciona"/>
   </folder>
-  <file name="index.html" crc="231035061" seo="true" mt="1502836386370" redirect="true"/>
-  <file name="inicio.html" crc="3809449288" seo="true" mt="1502315553404" redirect="false"/>
+  <file name="index.html" crc="302507589" seo="true" mt="1503352203601" redirect="true"/>
+  <file name="usuarios.html" crc="285168321" seo="true" mt="1503352203601" redirect="true"/>
+  <file name="¿quienes-somos.html" crc="417128972" seo="true" mt="1503352203601" redirect="true"/>
+  <file name="¿como-funciona.html" crc="4239858980" seo="true" mt="1503352203601" redirect="true"/>
 </manifest>

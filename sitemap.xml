@@ -2,115 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://E-MAN.com.mx/index.html</loc>
-    <lastmod>2017-08-15</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://E-MAN.com.mx/inicio.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://E-MAN.com.mx/%C2%BFcomo-funciona.html</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://E-MAN.com.mx/images/logo_lapisa-institucional.png</loc>
-    <lastmod>2017-08-15</lastmod>
+    <loc>http://E-MAN.com.mx/%C2%BFquienes-somos.html</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://E-MAN.com.mx/images/a069ba_7cf72230ae7d4ab7b154455847140435-mv2.png</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/pasted-svg-2x32.svg</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/c97d6f_5cbf79fec05d426a87b2452a4b96704a-mv2.jpg</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/slide_1.png</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/pasted-svg-78918x91.svg</loc>
-    <lastmod>2017-08-15</lastmod>
+    <loc>http://E-MAN.com.mx/usuarios.html</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://E-MAN.com.mx/images/a069ba_572b003b6a9a43e1873d96470d8249a2-mv2.jpg</loc>
-    <lastmod>2017-08-15</lastmod>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/logo_lapisa-institucional.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/slide_1.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/pasted-svg-78918x91.svg</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://E-MAN.com.mx/images/1cc1f33eafe2fc42b78b152ad67d4d01.jpg</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/68793653-agriculture-wallpapers.jpg</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/fondo.jpg</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/choice%201.png</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/choice%202.png</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/choice%203.png</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/choice%204.png</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/choice%205.png</loc>
-    <lastmod>2017-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://E-MAN.com.mx/images/logotipo.png</loc>
-    <lastmod>2017-08-15</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://E-MAN.com.mx/images/la-unic3b3-reclama-que-se-garantice-el-derecho-a-los-agricultores-a-vender-e-intercambiar-sus-semillas.jpg</loc>
-    <lastmod>2017-08-15</lastmod>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/68793653-agriculture-wallpapers.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/c97d6f_5cbf79fec05d426a87b2452a4b96704a-mv2.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/a069ba_7cf72230ae7d4ab7b154455847140435-mv2.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/choice%202.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/choice%203.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/choice%204.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/choice%205.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/svg-pegado-2119992x1129.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/quienes%20somos.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/svg-pegado-1214319x637.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/pasted-svg-2x32.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/logotipo.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/fondo.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://E-MAN.com.mx/images/choice%201.png</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
